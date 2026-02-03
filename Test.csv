@@ -1,0 +1,2 @@
+DepatureCity,destinationCity,price,airline,inputname,address,state,zipcode,creditcardNum,creditcardMonth,creditcardYear
+Boston,paris,$472.56,Virgin America,John Doe,123 street,MA,60001,1.23E+11,12,2026
